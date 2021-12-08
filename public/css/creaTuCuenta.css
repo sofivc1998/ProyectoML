@@ -34,6 +34,7 @@ body {
     width: 100%;
     text-align: center;
     border: 1px solid black;
+    border-radius: 3px;
 }
 
 .contenedor span{
@@ -42,6 +43,7 @@ body {
     border: 1px solid black;
     color: gray;
     background-color: white;
+    border-radius: 3px;
 }
 
 .logo{
