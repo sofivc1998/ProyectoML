@@ -21,17 +21,18 @@ body {
     align-items: center;
 }
 
+.logo{
+    display: inline-block;
+    width: 150px;
+    margin-left: 0px;
+}
+
 .contenedor{
     display: flex;
     justify-content: flex-end;
     width: 40%;
 }
 
-.logo{
-    display: inline-block;
-    width: 150px;
-    margin-left: 0px;
-}
 
 .barra-busqueda {  
     display: inline;
@@ -39,6 +40,7 @@ body {
     margin: 5px;
     width: 100%;
     text-align: center;
+    border-radius: 3px;
 }
 
 .search {
@@ -48,6 +50,7 @@ body {
     color: gray;
     background-color: white;
     margin-top: 5px;
+    border-radius: 3px;
 }
 
 .copia-header{

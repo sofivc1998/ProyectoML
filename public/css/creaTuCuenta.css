@@ -153,6 +153,7 @@ input{
     text-align: center;
     margin: 2% auto;
     letter-spacing: 0.05em;
+    align-items: right;
 }
 
 button {
